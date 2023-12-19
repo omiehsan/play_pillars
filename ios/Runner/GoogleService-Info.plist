@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCpQs1mS0rGKtdTtYaWwImgHnIy2FRvz-I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>917317424585</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.playPillars</string>
+	<key>PROJECT_ID</key>
+	<string>playpillars-b0191</string>
+	<key>STORAGE_BUCKET</key>
+	<string>playpillars-b0191.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:917317424585:ios:53745d9bdd2faf4d52c418</string>
+</dict>
+</plist>

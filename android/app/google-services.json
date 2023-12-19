@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917317424585",
+    "project_id": "playpillars-b0191",
+    "storage_bucket": "playpillars-b0191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917317424585:android:bdc78e241649929752c418",
+        "android_client_info": {
+          "package_name": "com.example.play_pillars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbT2O_-UngdG1FouXH8m5BXf_Chd3WA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917317424585:android:20747a3d7bd2d0d752c418",
+        "android_client_info": {
+          "package_name": "com.example.tasking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbT2O_-UngdG1FouXH8m5BXf_Chd3WA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
